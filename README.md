@@ -18,18 +18,18 @@ I'm Shashank Singh Chandel, Full Stack Developer.Currently working as System Eng
 - https://github.com/shashankch/NodeWS/tree/master/contact_list
 - https://shashankch.github.io/SuperheroHunter/
 
-### ML :
+#### ML :
 - https://github.com/shashankch/Facex
 
-### Android app dev:
+#### Android app dev:
 - https://github.com/shashankch/NewDeals
 
-### Data Structure and Algorithm Problem Solutions :
+#### Data Structure and Algorithm Problem Solutions :
 - https://github.com/shashankch/DataStructures-Algorithms
 - https://github.com/shashankch/DataStructures-Algo-Java
 
-### How to reach me:
-- https://www.linkedin.com/in/shashank0705/
+#### How to reach me:
+- [Linkedin](https://www.linkedin.com/in/shashank0705/)
 
 
 
