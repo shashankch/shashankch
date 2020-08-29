@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Shashank Singh Chandel, Full Stack Developer.Currently working as System Engineer Specialist at Infosys.
+I'm Shashank Singh Chandel, Full Stack Developer(MERN / SpringBoot-Angular).
 
 ### Check out my Projects:
 - [Links](https://shashankch.github.io/shashankch/)
