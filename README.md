@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 😎
 
-I'm Shashank Singh Chandel, Full Stack Developer(MERN / SpringBoot-Angular).
+I'm Shashank Singh Chandel, Full Stack Developer- MERN |Java(SpringBoot-Angular).
 
 ### Check out my Projects:
 - [Links](https://shashankch.github.io/shashankch/)
