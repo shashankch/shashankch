@@ -1,6 +1,6 @@
 ### Hi there 👋 😎
 
-I'm Shashank Singh Chandel, Full Stack Developer- Java | React | Node .
+I'm Shashank Chandel, Full Stack Developer- Java | React | Node .
 
 ### Check out my Projects:
 - [Links](https://shashankch.github.io/shashankch/)
