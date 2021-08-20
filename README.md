@@ -3,7 +3,8 @@
 I'm Shashank Chandel, Full stack developer with 2+ year of experience in software development.
 
 ### Skills
-- Problem Solving | OOPS | HLD/LLD | Java | Spring | JavaScript | React-Redux | Node | SQL & NoSQL | Microservices | RestAPI | Apache - Kafka, Storm, Camel .
+- Core: Problem Solving | OOPS | System Design .
+- Language/Fwks: Java | Spring | JavaScript | React-Redux | Node | SQL & NoSQL | Microservices | RestAPI | Apache - Kafka, Storm, Camel .
 
 ### Check out my Projects:
 - [Links](https://shashankch.github.io/shashankch/)
