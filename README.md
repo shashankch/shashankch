@@ -1,6 +1,6 @@
 ### Hi there 👋 😎
 
-I'm Shashank Chandel, Full stack developer with 2+ year of experience in software development.
+I'm Shashank Chandel, Full-Stack Engineer with 2+ year of experience in software development.
 
 ### Skills
 - Core: Problem Solving | System Design (HLD and LLD) .
