@@ -12,7 +12,7 @@ I'm Shashank Chandel, Software Engineer - FullStack with 2+ years of experience 
 
 #### How to reach me: 💬 📫
 - [Linkedin](https://www.linkedin.com/in/shashank0705/)
-- [MailID](shashakchandel@gmail.com)
+- shashakchandel@gmail.com
 
 
 
