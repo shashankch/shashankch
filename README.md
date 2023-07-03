@@ -1,10 +1,10 @@
 ### Hey there 👋 😎
 
-I'm Shashank Chandel, Software Engineer - FullStack with 3+ years of experience in Software Development.
+I'm Shashank Chandel, Software Engineer - FullStack with 4+ years of experience in Software Development.
 
 ### Key Skills ⚡ 
-- Core: Problem Solving | Systems Design (HLD and LLD) | Web Security
-- TechStack: Java | SpringBoot | JavaScript | Typescript | React-ReduxToolkit | Node | SQL & NoSQL | Microservices | RestAPI | Apache - Kafka | Docker & Kubernetes...
+- Core: Problem-Solving | Systems Design (HLD and LLD) | Web Security
+- TechStack: Java | SpringBoot | JavaScript | Typescript | React | Preact | OJET | Redux-Toolkit | HTML & CSS | Webpack | Node | SQL & NoSQL | Microservices | RestAPI | Apache Kafka | Docker & Kubernetes...
 
 ### Check out my work here: 🔭
 - [My Portfolio](https://shashank-portfolio-one.vercel.app/)
