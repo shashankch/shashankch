@@ -20,7 +20,7 @@ I'm Shashank Chandel, Software Engineer - FullStack with 4+ years of experience 
 #### How to reach me: 💬 📫
 - [Linkedin](https://www.linkedin.com/in/shashank0705/)
 - [Mail](shashakchandel@gmail.com)
-- [Twitter]()
+- [Twitter](https://twitter.com/shchande0705)
 <!--
 **shashankch/shashankch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
