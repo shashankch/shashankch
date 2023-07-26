@@ -15,7 +15,7 @@ I'm Shashank Chandel, Software Engineer - FullStack with 4+ years of experience 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shashankch&mode=weekly&theme=dark&hide_border=true&fire=571EDD)](https://shashank-portfolio-one.vercel.app/)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashankch&exclude_repo=EcomSite&layout=donut-vertical&theme=dark&hide_border=true)](https://shashank-portfolio-one.vercel.app/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankch&exclude_repo=EcomSite&layout=donut-vertical&theme=dark&hide_border=true)](https://shashank-portfolio-one.vercel.app/)
 
 #### How to reach me: 💬 📫
 - [Linkedin](https://www.linkedin.com/in/shashank0705/)
