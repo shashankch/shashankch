@@ -15,12 +15,10 @@ Strong focus on high-quality engineering, system design, and solving complex pro
 - Event-driven and microservice-based architectures  
 - Web applications with clean UI/UX + modular FE architecture  
 - AI-powered automation features that improve productivity  
-- Performance optimization, observability, and production reliability  
-
-### 📂 Featured Work
-- Full-stack applications (React, Preact, Node, Spring Boot)  
+- Performance optimization, observability, and production reliability
 - Backend automation tools, microservices, and platform integrations  
-- Personal projects exploring system design, distributed patterns, and AI workflows  
+- Full-stack applications (React, Preact, Node, Spring Boot)
+- Personal projects exploring system design, distributed patterns, and AI workflows
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankch&exclude_repo=EcomSite&layout=donut-vertical&theme=dark&hide_border=true)](https://shashank-portfolio-one.vercel.app/)
 
