@@ -1,37 +1,31 @@
-### Hey there 👋 😎
+# 👋 Hi, I'm Shashank
 
-I'm Shashank Chandel, Software Engineer - FullStack with 4+ years of experience in Software Development.
+Software Engineer (Backend + Full-Stack) with 5+ years of experience building large-scale distributed systems, backend services, and cloud-native applications.  
+Strong focus on high-quality engineering, system design, and solving complex problems with clean, reliable solutions.
 
-### Key Skills ⚡ 
-- Core: Problem-Solving | Systems Design (HLD and LLD) | Web Security
-- TechStack: Java | SpringBoot | JavaScript | Typescript | React | Preact | OJET | Redux-Toolkit | HTML & CSS | Webpack | Node | SQL & NoSQL | Microservices | RestAPI | Apache Kafka | Docker & Kubernetes...
+### 🔧 Core Engineering Areas
+- **Backend:** Java, Spring Boot, Microservices, REST APIs, Distributed Systems  
+- **Frontend:** React, TypeScript, Redux Toolkit, Modern Web Architecture  
+- **Cloud & DevOps:** Docker, Kubernetes, CI/CD (GitLab), OCI/AWS, Monitoring (Prometheus/Grafana)  
+- **Data & Messaging:** MySQL, MongoDB, OracleDB, Redis, Kafka, Cron/Async Processing  
+- **GenAI Integration:** Practical experience building AI-assisted workflows & automation inside enterprise systems  
 
-### Check out my work here: 🔭
-#### [My Portfolio](https://shashank-portfolio-one.vercel.app/)
+### 🛠 What I Work On
+- Scalable backend services & integration layers  
+- Event-driven and microservice-based architectures  
+- Web applications with clean UI/UX + modular FE architecture  
+- AI-powered automation features that improve productivity  
+- Performance optimization, observability, and production reliability  
 
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fshashank-portfolio-one.vercel.app&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=shashankch&mode=weekly&theme=dark&hide_border=true&fire=571EDD)](https://shashank-portfolio-one.vercel.app/)
+### 📂 Featured Work
+- Full-stack applications (React, Preact, Node, Spring Boot)  
+- Backend automation tools, microservices, and platform integrations  
+- Personal projects exploring system design, distributed patterns, and AI workflows  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankch&exclude_repo=EcomSite&layout=donut-vertical&theme=dark&hide_border=true)](https://shashank-portfolio-one.vercel.app/)
 
-#### How to reach me: 💬 📫
-- [Linkedin](https://www.linkedin.com/in/shashank0705/)
-- [Gmail](mailto:shashakchandel@gmail.com)
-- [Twitter](https://twitter.com/shchande0705)
-<!--
-**shashankch/shashankch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/shashank0705  
+- **Email:** shashakchandel@gmail.com
+- **Portfolio:**  https://linktr.ee/shashankchandel0705
+- **X:** https://x.com/shchande0705
