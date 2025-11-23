@@ -1,25 +1,46 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Shashank Chandel | GitHub</title>
 
   <style>
-    body { 
-      font-family: Arial, sans-serif; 
-      margin: 40px auto; 
-      max-width: 900px; 
-      line-height: 1.6;
-      color: #222;
+    :root{
+      --bg: #0d1117;
+      --panel: #0b1220;
+      --muted: #8b949e;
+      --text: #c9d1d9;
+      --accent: #58a6ff;
+      --maxw: 900px;
     }
-    h1, h2, h3 { font-weight: 600; margin-top: 40px; }
-    a { color: #0366d6; text-decoration: none; }
+    html,body { height:100%; margin:0; }
+    body { 
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background: linear-gradient(180deg, var(--bg), #071025);
+      color: var(--text);
+      margin: 40px auto;
+      max-width: var(--maxw);
+      line-height: 1.6;
+      padding: 24px;
+    }
+    a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
-    .section { margin-bottom: 35px; }
-    .project-list { margin-left: 20px; }
-    .project-item { margin-bottom: 8px; }
-    .tagline { font-size: 1.1rem; color: #444; margin-top: 8px; }
+    h1 { font-size: 1.8rem; margin: 0 0 6px 0; }
+    h2 { font-size: 1.05rem; margin-top: 30px; color: var(--text); }
+    h3 { font-size: 0.98rem; margin-top: 18px; color: var(--text); }
+    .tagline { font-size: 1rem; color: var(--muted); margin-bottom: 14px; }
+    .section { margin-bottom: 26px; background: rgba(255,255,255,0.02); padding: 18px; border-radius: 8px; }
+    .project-list { margin-left: 18px; }
+    .project-item { margin-bottom: 8px; color: var(--text); }
+    .skills { display:flex; flex-wrap:wrap; gap:8px; margin-top:8px; }
+    .skill { background: rgba(255,255,255,0.03); color:var(--muted); padding:6px 10px; border-radius:6px; font-size:0.9rem; }
+    .contact { color: var(--muted); }
+    .badge-holder { margin: 10px 0 12px 0; }
+    @media (max-width:600px){
+      body{ margin:18px; padding:12px;}
+      h1{ font-size:1.4rem;}
+    }
   </style>
 </head>
 
@@ -27,29 +48,35 @@
 
   <h1>👋 Hi, I'm <strong>Shashank Chandel</strong></h1>
   <div class="tagline">
-    Software Engineer | Backend | Distributed Systems | GenAI Integration
+    Software Engineer - Backend & Distributed Systems. Practical experience integrating GenAI into enterprise systems.
   </div>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shashank0705" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shashank0705?trk=profile-badge">Linkedin</a></div>
-  <p>
-    I work on backend systems, distributed architectures, microservices, Kubernetes-based deployments, 
-    and high-scale enterprise products.  
-    Previously at <strong>Oracle</strong> (DCP/DMP - Audience activation & Data collaboration platform)  
-    and <strong>SAP Labs</strong> (SuccessFactors + Joule GenAI workflows).
-  </p>
 
-  <div class="section">
-    <h2>🛠️ Tech Focus</h2>
-    <ul>
-      <li><strong>Backend:</strong> Java, Spring Boot, Microservices, REST APIs</li>
-      <li><strong>Cloud & DevOps:</strong> Kubernetes, Docker, GitLab CI/CD, ArgoCD, Prometheus, Grafana</li>
-      <li><strong>Data & Messaging:</strong> MySQL, Oracle DB, MongoDB, Redis, Kafka</li>
-      <li><strong>Frontend (selected projects):</strong> React, Redux Toolkit, TypeScript</li>
-      <li><strong>GenAI Integration:</strong> LLM-driven workflows, automation for enterprise systems</li>
-    </ul>
+  <div class="badge-holder">
+    <!-- LinkedIn badge (kept minimal) -->
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="shashank0705" data-version="v1">
+      <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shashank0705?trk=profile-badge">LinkedIn</a>
+    </div>
   </div>
 
   <div class="section">
-    <h2>📌 Past Projects</h2>
+    <h2>🛠 Core Focus</h2>
+    <div class="skills">
+      <div class="skill">Java / Spring Boot</div>
+      <div class="skill">Microservices</div>
+      <div class="skill">Distributed Systems</div>
+      <div class="skill">Kubernetes / Docker</div>
+      <div class="skill">CI/CD / ArgoCD / GitLab</div>
+      <div class="skill">Cloud (AWS/OCI)</div>
+      <div class="skill">Kafka / Messaging</div>
+      <div class="skill">MySQL / MongoDB / Redis</div>
+      <div class="skill">React / TypeScript (selected UIs)</div>
+      <div class="skill">Prometheus / Grafana</div>
+      <div class="skill">GenAI Integration (LLM-driven workflows)</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>📌 Selected Projects</h2>
 
     <h3>Full-Stack / MERN</h3>
     <div class="project-list">
@@ -57,27 +84,11 @@
         <a href="https://github.com/shashankch/Codeial-live">Developer Social Media App (MERN)</a>
       </div>
       <div class="project-item">
-        <a href="https://github.com/shashankch/RentLo-FullStack">RentLo – Property Rental Platform</a> • 
-        <a href="https://rentlo-project.herokuapp.com/">Live Demo</a>
-      </div>
-      <div class="project-item">
-        <a href="https://github.com/shashankch/OnlineClassroom">Online Classroom App</a>
+        <a href="https://github.com/shashankch/RentLo-FullStack">RentLo – Property Rental Platform</a> • <a href="https://rentlo-project.herokuapp.com/">Live Demo</a>
       </div>
     </div>
 
-    <h3>React, Redux & Frontend Apps</h3>
-    <div class="project-list">
-      <div class="project-item">
-        <a href="https://github.com/shashankch/Issue-Tracker">Issue Tracker (Material UI)</a> • 
-        <a href="https://happy-hamilton-d701c2.netlify.app/">Live Demo</a>
-      </div>
-      <div class="project-item">
-        <a href="https://github.com/shashankch/Goals-Tracker">Goals Tracker (Ant Design)</a> • 
-        <a href="https://goal-tracker-by-shashank.web.app/">Live Demo</a>
-      </div>
-    </div>
-
-    <h3>Node.js & Backend</h3>
+    <h3>Backend & APIs</h3>
     <div class="project-list">
       <div class="project-item">
         <a href="https://github.com/shashankch/NodeWS/tree/master/codeial">Node Backend for Social Media App</a>
@@ -97,14 +108,7 @@
       </div>
     </div>
 
-    <h3>Android Development</h3>
-    <div class="project-list">
-      <div class="project-item">
-        <a href="https://github.com/shashankch/NewDeals">New Deals – Android App</a>
-      </div>
-    </div>
-
-    <h3>Data Structures & Algorithms</h3>
+    <h3>Algorithms & DS</h3>
     <div class="project-list">
       <div class="project-item">
         <a href="https://github.com/shashankch/DataStructures-Algorithms">C++ Solutions</a>
@@ -117,10 +121,10 @@
 
   <div class="section">
     <h2>📬 Connect</h2>
-    <p>
-      Contact: <a href="mailto:shashankchandel0705@gmail.com">shashankchandel0705@gmail.com</a>
-    </p>
+    <p class="contact">Email: <a href="mailto:shashankchandel0705@gmail.com">shashankchandel0705@gmail.com</a></p>
   </div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+  <!-- LinkedIn badge script: place at end of body for best load behavior -->
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </body>
 </html>
